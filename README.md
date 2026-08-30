@@ -2,8 +2,7 @@
 
 Group Assignment & Micro-Project-1: PDE Applications in Engineering
 
-TOPIC 1: Quantum Confinement (The Schr¨odinger Wave Equa
-tion)
+TOPIC 1: Quantum Confinement (The Schr¨odinger Wave Equation)
 
 Members:Bhagath CR(22)
 Sharika V (60)
